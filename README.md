@@ -45,7 +45,7 @@ The documentation includes:
 To read all the Use Cases, simply open:
 
 
-[./UseCase/README.md](./UseCase/README.md)
+![./UseCase/README.md](./UseCase)
 
 
 It contains the complete documentation of every Use Case with:
@@ -63,7 +63,7 @@ It contains the complete documentation of every Use Case with:
 To view all the System Sequence Diagrams (SSD), open:
 
 
-[!./SequenceDiagram/README.md](./SequenceDiagram/README.md)
+![./SequenceDiagram/README.md](./SequenceDiagram)
 
 
 Each diagram is accompanied by a brief explanation describing the interaction flow between the user and the system.
